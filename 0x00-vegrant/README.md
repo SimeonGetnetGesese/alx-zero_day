@@ -1,0 +1,1 @@
+This directory created to answer the second question on vegrant.
