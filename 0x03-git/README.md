@@ -1,1 +1,1 @@
-This is the answer to quetions on emacs project week onee
+This is the answer to quetions on project week one for git.
